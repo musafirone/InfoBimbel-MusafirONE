@@ -1,0 +1,6 @@
+{
+  "name": "InfoBimbel MusafirONE",
+  "description": "Generator poster infografis edukasi bertenaga AI Gemini untuk merangkum dan memvisualisasikan konsep belajar menjadi langkah visual siap cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
